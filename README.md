@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Datn7
-- 👀 I’m interested in Virtual Reality
+- 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Aspnet Core and Angular
-- 💞️ I’m looking to collaborate on VR Projects and Web development
+- 💞️ I’m looking to collaborate on Web development
 
 <!---
 Datn7/Datn7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
